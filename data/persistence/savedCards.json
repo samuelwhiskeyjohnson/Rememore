@@ -1,0 +1,77 @@
+{"cardBoxes": [
+  {
+    "boxMinutesTimer": 0,
+    "cards": [
+      {
+        "backInfo": "Cat",
+        "cardID": 0,
+        "startTime": "2021-03-03 17:10:50",
+        "frontInfo": "Favorite pet?"
+      },
+      {
+        "backInfo": "Red",
+        "cardID": 1,
+        "startTime": "2021-03-03 17:10:57",
+        "frontInfo": "Fav color?"
+      },
+      {
+        "backInfo": "coffee",
+        "cardID": 2,
+        "startTime": "2021-03-03 17:11:05",
+        "frontInfo": "fav drink?"
+      }
+    ],
+    "cardBoxNumber": 1
+  },
+  {
+    "boxMinutesTimer": 10,
+    "cards": [
+      {
+        "backInfo": "pineapple",
+        "cardID": 3,
+        "startTime": "2021-03-03 17:11:14",
+        "frontInfo": "pizza or pineapple?"
+      },
+      {
+        "backInfo": "rick roll",
+        "cardID": 4,
+        "startTime": "2021-03-03 17:11:22",
+        "frontInfo": "fav song?"
+      }
+    ],
+    "cardBoxNumber": 2
+  },
+  {
+    "boxMinutesTimer": 20,
+    "cards": [
+      {
+        "backInfo": "jake",
+        "cardID": 5,
+        "startTime": "2021-03-03 17:11:37",
+        "frontInfo": "name of your friend?"
+      },
+      {
+        "backInfo": "supreme",
+        "cardID": 6,
+        "startTime": "2021-03-03 17:11:50",
+        "frontInfo": "favorite brand?"
+      }
+    ],
+    "cardBoxNumber": 3
+  },
+  {
+    "boxMinutesTimer": 30,
+    "cards": [{
+      "backInfo": "IBM",
+      "cardID": 7,
+      "startTime": "2021-03-03 17:12:04",
+      "frontInfo": "favorite computer?"
+    }],
+    "cardBoxNumber": 4
+  },
+  {
+    "boxMinutesTimer": 40,
+    "cards": [],
+    "cardBoxNumber": 5
+  }
+]}

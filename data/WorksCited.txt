@@ -1,0 +1,35 @@
+
+Images
+CardBox.png for card box buttons on main menu GUI
+https://thenounproject.com/icon/1177312/
+
+CardBoxPressed.png for box buttons when pressed on main menu GUI
+Identical image as CardBox.png, just scaled smaller.
+
+
+
+
+
+
+Sounds
+click.wav sound for clicking buttons on the top of GUI
+https://www.zapsplat.com/music/single-click-screen-press-on-smart-phone-3/
+
+correct.wav sound when user answers card correct during card test GUI
+https://www.zapsplat.com/music/game-sound-bright-and-warm-synth-complete-success-tone-3/
+
+fail.wav sound when user answer <70% of the questions as a final result in card test GUI
+https://www.zapsplat.com/music/bold-synth-game-tone-negative-fail/
+
+selectBox.wav sound for selecting box buttons on the main menu screen GUI
+https://www.zapsplat.com/music/multimedia-click-3/
+
+success.wav sound when user correctly answers >=70% of the questions as a final result in card test GUI
+https://www.zapsplat.com/music/cheesy-synthesized-brass-fanfare-good-for-game-success-tone-version-1/
+
+welcome.wav sound when application starts
+https://www.zapsplat.com/music/musical-ident-signature-sound-soft-calm-and-warm-sincere-1/
+
+wrong.wav sound when user answers card incorrectly during card test GUI
+https://www.zapsplat.com/music/game-sound-bright-and-warm-synth-negative-tone-1/
+

@@ -1,0 +1,27 @@
+{"cardBoxes": [
+    {
+        "boxMinutesTimer": 0,
+        "cards": [],
+        "cardBoxNumber": 1
+    },
+    {
+        "boxMinutesTimer": 20,
+        "cards": [],
+        "cardBoxNumber": 2
+    },
+    {
+        "boxMinutesTimer": 40,
+        "cards": [],
+        "cardBoxNumber": 3
+    },
+    {
+        "boxMinutesTimer": 80,
+        "cards": [],
+        "cardBoxNumber": 4
+    },
+    {
+        "boxMinutesTimer": 160,
+        "cards": [],
+        "cardBoxNumber": 5
+    }
+]}

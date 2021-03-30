@@ -1,0 +1,82 @@
+{"cardBoxes": [
+  {
+    "boxMinutesTimer": 0,
+    "cards": [{
+      "backInfo": "IBM",
+      "cardID": 6,
+      "startTime": "2021-02-28 20:43:52",
+      "frontInfo": "favorite computer"
+    }],
+    "cardBoxNumber": 1
+  },
+  {
+    "boxMinutesTimer": 0,
+    "cards": [
+      {
+        "backInfo": "apple",
+        "cardID": 5,
+        "startTime": "2021-02-28 21:39:07",
+        "frontInfo": "pineapple vs apple"
+      },
+      {
+        "backInfo": "blue",
+        "cardID": 0,
+        "startTime": "2021-02-28 21:43:46",
+        "frontInfo": "What color is sky?"
+      },
+      {
+        "backInfo": "apple",
+        "cardID": 7,
+        "startTime": "2021-02-28 21:44:28",
+        "frontInfo": "favorite phone"
+      },
+      {
+        "backInfo": "pizza",
+        "cardID": 1,
+        "startTime": "2021-02-28 21:44:35",
+        "frontInfo": "favorite food"
+      },
+      {
+        "backInfo": "supreme",
+        "cardID": 2,
+        "startTime": "2021-02-28 21:44:40",
+        "frontInfo": "favorite brand"
+      }
+    ],
+    "cardBoxNumber": 2
+  },
+  {
+    "boxMinutesTimer": 0,
+    "cards": [
+      {
+        "backInfo": "bonjour",
+        "cardID": 8,
+        "startTime": "2021-02-28 20:39:44",
+        "frontInfo": "Hello in french"
+      },
+      {
+        "backInfo": "CPSC210",
+        "cardID": 3,
+        "startTime": "2021-02-28 21:11:56",
+        "frontInfo": "favorite class"
+      },
+      {
+        "backInfo": "Purple",
+        "cardID": 4,
+        "startTime": "2021-02-28 21:12:01",
+        "frontInfo": "favorite color"
+      }
+    ],
+    "cardBoxNumber": 3
+  },
+  {
+    "boxMinutesTimer": 0,
+    "cards": [],
+    "cardBoxNumber": 4
+  },
+  {
+    "boxMinutesTimer": 0,
+    "cards": [],
+    "cardBoxNumber": 5
+  }
+]}
